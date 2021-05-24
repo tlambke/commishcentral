@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/tlambke
   class: icon-github
   title: Code und mehr...
 
@@ -9,7 +9,7 @@
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/commishcentral
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
