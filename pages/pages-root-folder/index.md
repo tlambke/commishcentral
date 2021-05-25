@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog & Portfolio"
   url: 'http://tlambke.github.io/commishcentral/blog/'
-  image: widget-1-302x182.jpg
+  image: thought-catalog-505eectW54k-unsplash.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "The Podcast"
