@@ -1,12 +1,21 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: CommishCentral
   url: "/getting-started/"
   side: left
+  dropdown:
+  - title: "The Start"
+    url: "/design/grid/"
+  - title: "The Draft"
+    url: "/design/typography/typography/"
+  - title: "The Season"
+    url: "/design/page/"
+  - title: "The Off-Season"
+    url: "/design/post-left-sidebar/"
 
-- title: "Templates"
+- title: "RookieCentral"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +40,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Podcast"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +59,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Store
   url: "/documentation/"
   side: left
   dropdown:
