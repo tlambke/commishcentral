@@ -1,9 +1,9 @@
 - title: Home
-  url: "/"
+  url: "/design/"
   side: left
 
 - title: CommishCentral
-  url: "/getting-started/"
+  url: "/design/"
   side: left
   dropdown:
   - title: "The Start"
