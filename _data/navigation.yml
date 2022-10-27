@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "The Start"
-    url: "/design/grid/"
+    url: "/design/"
   - title: "The Draft"
     url: "/design/typography/typography/"
   - title: "The Season"
