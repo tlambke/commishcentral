@@ -1,15 +1,15 @@
 - title: Home
-  url: "/home/"
+  url: "/"
   side: left
 
 - title: CommishCentral
-  url: "/commishcentral/"
+  url: "/design/"
   side: left
   dropdown:
   - title: "The Start"
-    url: "/thestart/"
+    url: "/design/"
   - title: "The Draft"
-    url: "/thedraft/"
+    url: "/design/typography/typography/"
   - title: "The Season"
     url: "/design/page/"
   - title: "The Off-Season"
